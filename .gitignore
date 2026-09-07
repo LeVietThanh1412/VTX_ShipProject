@@ -1,0 +1,13 @@
+# Các thư mục rác tự động sinh của Unreal
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+.vscode/
+.vs/
+*.sln
+*.suo
+*.sdf
+*.opensdf
+*.DS_Store
